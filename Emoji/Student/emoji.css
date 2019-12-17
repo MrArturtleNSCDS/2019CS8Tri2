@@ -61,13 +61,6 @@ body{
     display: inline-block;
 }
 
-.colorBox{
-    width: 61px;
-    height: 61px;
-    display: inline-block;
-    box-sizing: border-box;
-}
-
 .pupilImage,.mouthImage{
     background-repeat: no-repeat;
     background-position: center center;
